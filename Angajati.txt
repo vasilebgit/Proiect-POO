@@ -1,0 +1,4 @@
+Vasile,Manole,5014784569874,Administrator
+Popa,Romeo,5142569874120,Portar
+Manea,Gigi,4784978415784,Contabil
+Mihai,Gheorghe,5144512457102,Manager

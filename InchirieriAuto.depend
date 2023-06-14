@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1622823888 source:c:\users\cosmin\desktop\inchirieriauto\angajat.cpp
+	"Angajat.h"
+
+1622823805 c:\users\cosmin\desktop\inchirieriauto\angajat.h
+	<iostream>
+	<string>
+	"Persoana.h"
+	"Functii.h"
+
+1623741127 source:c:\users\cosmin\desktop\inchirieriauto\client.cpp
+	"Client.h"
+
+1622823645 c:\users\cosmin\desktop\inchirieriauto\client.h
+	"Persoana.h"
+	"Functii.h"
+	<string>
+
+1623333383 source:c:\users\cosmin\desktop\inchirieriauto\inchirieri.cpp
+	"Inchirieri.h"
+
+1623336298 c:\users\cosmin\desktop\inchirieriauto\inchirieri.h
+	<iostream>
+	<string>
+	"Functii.h"
+
+1623589302 source:c:\users\cosmin\desktop\inchirieriauto\main.cpp
+	"Meniu.h"
+
+1622842975 source:c:\users\cosmin\desktop\inchirieriauto\masina.cpp
+	"Masina.h"
+
+1622842670 c:\users\cosmin\desktop\inchirieriauto\masina.h
+	<iostream>
+	<string>
+	"Functii.h"
+	<map>
+
+1621003960 source:c:\users\cosmin\desktop\inchirieriauto\functii.cpp
+	"Functii.h"
+
+1621003944 c:\users\cosmin\desktop\inchirieriauto\functii.h
+	<vector>
+	<string>
+	<iostream>
+
+1621023586 source:c:\users\cosmin\desktop\inchirieriauto\persoana.cpp
+	"Persoana.h"
+	"Functii.h"
+
+1622809597 c:\users\cosmin\desktop\inchirieriauto\persoana.h
+	<string.h>
+	<iostream>
+
+1621005045 source:c:\users\cosmin\desktop\inchirieriauto\functie.cpp
+	"Functie.h"
+
+1621005045 c:\users\cosmin\desktop\inchirieriauto\functie.h
+
+1623334030 source:c:\users\cosmin\desktop\inchirieriauto\administrarefisiere.cpp
+	"AdministrareFisiere.h"
+
+1623334065 c:\users\cosmin\desktop\inchirieriauto\administrarefisiere.h
+	<iostream>
+	<fstream>
+	<string>
+	"Client.h"
+	"Angajat.h"
+	"Masina.h"
+	"Inchirieri.h"
+
+1623767367 source:c:\users\cosmin\desktop\inchirieriauto\meniu.cpp
+	"Meniu.h"
+
+1623589082 c:\users\cosmin\desktop\inchirieriauto\meniu.h
+	<conio.h>
+	"Persoana.h"
+	"Client.h"
+	"Angajat.h"
+	"Masina.h"
+	"Inchirieri.h"
+	"AdministrareFisiere.h"
+
+1623334032 source:c:\users\vasile bordei\desktop\inchirieriauto\administrarefisiere.cpp
+	"AdministrareFisiere.h"
+
+1623334066 c:\users\vasile bordei\desktop\inchirieriauto\administrarefisiere.h
+	<iostream>
+	<fstream>
+	<string>
+	"Client.h"
+	"Angajat.h"
+	"Masina.h"
+	"Inchirieri.h"
+
+1622823646 c:\users\vasile bordei\desktop\inchirieriauto\client.h
+	"Persoana.h"
+	"Functii.h"
+	<string>
+
+1622809598 c:\users\vasile bordei\desktop\inchirieriauto\persoana.h
+	<string.h>
+	<iostream>
+
+1621003946 c:\users\vasile bordei\desktop\inchirieriauto\functii.h
+	<vector>
+	<string>
+	<iostream>
+
+1622823806 c:\users\vasile bordei\desktop\inchirieriauto\angajat.h
+	<iostream>
+	<string>
+	"Persoana.h"
+	"Functii.h"
+
+1622842672 c:\users\vasile bordei\desktop\inchirieriauto\masina.h
+	<iostream>
+	<string>
+	"Functii.h"
+	<map>
+
+1623336300 c:\users\vasile bordei\desktop\inchirieriauto\inchirieri.h
+	<iostream>
+	<string>
+	"Functii.h"
+
+1622823890 source:c:\users\vasile bordei\desktop\inchirieriauto\angajat.cpp
+	"Angajat.h"
+
+1623741128 source:c:\users\vasile bordei\desktop\inchirieriauto\client.cpp
+	"Client.h"
+
+1621003962 source:c:\users\vasile bordei\desktop\inchirieriauto\functii.cpp
+	"Functii.h"
+
+1623768164 source:c:\users\vasile bordei\desktop\inchirieriauto\inchirieri.cpp
+	"Inchirieri.h"
+
+1623589304 source:c:\users\vasile bordei\desktop\inchirieriauto\main.cpp
+	"Meniu.h"
+
+1623589084 c:\users\vasile bordei\desktop\inchirieriauto\meniu.h
+	<conio.h>
+	"Persoana.h"
+	"Client.h"
+	"Angajat.h"
+	"Masina.h"
+	"Inchirieri.h"
+	"AdministrareFisiere.h"
+
+1622842976 source:c:\users\vasile bordei\desktop\inchirieriauto\masina.cpp
+	"Masina.h"
+
+1623767368 source:c:\users\vasile bordei\desktop\inchirieriauto\meniu.cpp
+	"Meniu.h"
+
+1621023588 source:c:\users\vasile bordei\desktop\inchirieriauto\persoana.cpp
+	"Persoana.h"
+	"Functii.h"
+
